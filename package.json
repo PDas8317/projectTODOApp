@@ -1,8 +1,8 @@
 {
-  "name": "toto-app",
+  "name": "todo-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "http://PDas8317.github.io/projectTODOApp",
+  "homepage": "https://PDas8317.github.io/projectTODOApp/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
