@@ -1,0 +1,46 @@
+.box {
+
+    text-align: center;
+
+}
+
+body {
+    background-color: rgb(73, 20, 58);
+    font-size: larger;
+}
+
+
+.inp {
+    background-color: rgb(85, 233, 236);
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border: 2px solid white;
+
+}
+
+.inp:hover {
+    border: 2px solid white;
+}
+
+.addBtn {
+    background-color: rgb(68, 20, 245);
+    height: 57px;
+    width: 90px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    font-weight: bolder;
+    font-size: large;
+}
+
+.addBtn:hover {
+    border: 2px solid white;
+    color: white
+}
+
+.todoBox {
+    padding-top: 10px;
+    background-color: rgb(251, 222, 210);
+    margin-left: 35%;
+    margin-right: 35%;
+    border-radius: 30px;
+}
